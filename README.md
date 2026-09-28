@@ -2,7 +2,7 @@
 
 **Asignatura**: Programación Orientada a Objetos (Grupo 07)  
 
-**Institución:** Facultad de Ingeniería, UNAM — Laboratorio de Computación  
+**Institución:** Facultad de Ingeniería, UNAM 
 
 **Profesor:** René Adrián Dávila Pérez  
 
