@@ -1,4 +1,4 @@
-# 1° Entregable del Proyecto
+# Etapa 1
 
 **Asignatura**: Programación Orientada a Objetos (Grupo 07)  
 
