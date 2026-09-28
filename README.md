@@ -1,2 +1,15 @@
-# Etapa_1
-Repositorio de la Etapa 1 del proyecto de Programación Orientada a Objetos del grupo 7 del semestre 2027-1
+# 1° Entregable del Proyecto
+
+**Asignatura**: Programación Orientada a Objetos (Grupo 07)  
+
+**Institución:** Facultad de Ingeniería, UNAM — Laboratorio de Computación  
+
+**Profesor:** René Adrián Dávila Pérez  
+
+**Semestre:** 3º (Semestre 2027-1)  
+
+**Fecha de Entrega:** 28 Septiembre 2026  
+
+**Brigada:** 6  
+
+Link a archivo LaTeX `https://www.overleaf.com/4397538623gxzbsbdjjcdw#9acbee`
